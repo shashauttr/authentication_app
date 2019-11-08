@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "601017164171",
+    "firebase_url": "https://authentication-b50dd.firebaseio.com",
+    "project_id": "authentication-b50dd",
+    "storage_bucket": "authentication-b50dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601017164171:android:103ab7b0dda89d92aa8f8e",
+        "android_client_info": {
+          "package_name": "com.vortexapplabs.auth_simple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601017164171-92o8mvl7rk0m9auqk4s9b1o9qn3kt2if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vortexapplabs.auth_simple",
+            "certificate_hash": "c03d00b493219eb74978db9a303622c75324b9d8"
+          }
+        },
+        {
+          "client_id": "601017164171-b6g8bj66i751s5haab8dsttrpsskap7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8bbNSKxWZdGHG6IDYUQ4m-INB2Dq89F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601017164171-b6g8bj66i751s5haab8dsttrpsskap7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
